@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer from India, currently e
 - 📫 How to reach me: [sakshinimje7@gmail.com](mailto:sakshinimje7@gmail.com)
 - ⚡ Fun fact: I love solving coding challenges and contributing to open-source projects.
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+## 🛠️ Technologies & Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
@@ -42,8 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer from India, currently e
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sakshi-nimje-532861290/)
-- [GitHub](https://github.com/sakshinimje7)
+- [LinkedIn](https://www.linkedin.com/in/sakshi-nimje-532861290/) 
 - [Email](mailto:sakshinimje7@gmail.com)
 
   
