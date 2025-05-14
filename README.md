@@ -18,12 +18,12 @@ Welcome to my GitHub profile! I'm a passionate developer from India, currently e
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-002856?style=flat&logo=sap&logoColor=white)
 
-### 🌐 Web Development
+## 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS (Tailwind)](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer from India, currently e
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sakshi-nimje)
+- [LinkedIn](https://www.linkedin.com/in/sakshi-nimje-532861290/)
 - [GitHub](https://github.com/sakshinimje7)
 - [Email](mailto:sakshinimje7@gmail.com)
 
