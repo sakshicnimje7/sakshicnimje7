@@ -1,4 +1,5 @@
  # 👋 Hi there, I'm Sakshi Nimje
+![github banner](https://github.com/user-attachments/assets/e6689d06-4eb6-4132-879f-b35509c82eed)
 
 ![Profile Banner](https://your-banner-image-url.com)
 
