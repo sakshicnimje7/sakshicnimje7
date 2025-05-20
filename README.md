@@ -1,7 +1,7 @@
  # 👋 Hi there, I'm Sakshi Nimje
 ![github banner](https://github.com/user-attachments/assets/e6689d06-4eb6-4132-879f-b35509c82eed)
 
-Welcome to my GitHub profile! I'm a passionate web developer from India, currently exploring the world of data science.
+Welcome to my GitHub profile! I'm a passionate web developer from India, currently exploring the world of data science and software development.
 
 ## 🔭 About Me
 - 🎓 B.Tech in Computer Science with SAP at Parul University (May 2027)
